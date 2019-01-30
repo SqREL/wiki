@@ -1,8 +1,8 @@
 # hugo server --themesDir ...
 
-baseURL: https://example.com
-title: Hugo Book
-theme: hugo-book
+baseURL: https://wiki.melnychuk.me
+title: SqREL's knowledge base
+theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # themesDir: ../..
 
@@ -24,7 +24,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/alex-shpak/hugo-book
+  BookRepo: https://github.com/SqREL/wiki
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
