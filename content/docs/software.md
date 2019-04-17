@@ -11,3 +11,4 @@ In this section there will be collection of all software and probably config i u
 ## List of content
 
 * [Neovim]({{< ref "/docs/software/neovim.md" >}})
+* [Choosy]({{< ref "/docs/software/choosy.md" >}})
